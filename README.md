@@ -14,9 +14,10 @@ The llm does not directly use those tools , instead it **two important things** 
 2. After , we call the tool with that **structured schema** , we need **AI** to refine the **result**.
 ---
 #### SIMPLE WORKFLOW
-
+The following picture shows how the llm and tool work together ,
 ![workflow-1](assests/workflow.jpeg)
 - Here the **llm** picks the **proper tool** for the user's **query**.
+- Then return a **structured response** to call a specific tool.
 
 ![workflow-2](assests/workflow2.jpeg)
 - After that we call our python function(or **tool**) using the llm's **structured response to call tool**.
