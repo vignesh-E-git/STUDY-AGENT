@@ -1,0 +1,25 @@
+# Core LLM & LangChain
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+langchain-chroma
+langgraph
+
+# Google GenAI SDK (used directly in calci.py)
+google-genai
+
+# MCP (Model Context Protocol)
+mcp
+
+# Web scraping & search
+firecrawl-py
+
+# Vector store
+chromadb
+
+# OCR & PDF processing
+pytesseract
+pdf2image
+
+# Environment
+python-dotenv
