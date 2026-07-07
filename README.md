@@ -103,4 +103,4 @@ Work of RAG.py (retrieval phase) :
   5. return the final response
 
 #### DISCLAIMER
-This **repository** is only for begginers to **understand** how agents call mcp tools, how rag system works , how to design a basic agent using langgraph.This **study agent** does not actually aimed to solve any real world problems.It is for **educational purpose**.
+This **repository** is only for begginers to **understand** how agents call mcp tools, how rag system works , how to design a basic agent using langgraph.This **study agent** does not actually aimed to solve any real world problems.It is for **educational purpose**.Also all the code and readme was typed manually by me. AI is used only to review the code.
